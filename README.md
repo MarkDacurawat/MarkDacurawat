@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://app.daily.dev/markdacurawat"><img src="https://api.daily.dev/devcards/v2/cQIfLnyMxhHv3nnfY37Q7.png?r=xd0&type=default" width="356" alt="Mark Dacurawat's Dev Card"/></a>
+
 <!--
 **MarkDacurawat/MarkDacurawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
